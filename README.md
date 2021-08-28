@@ -1,6 +1,6 @@
-# Canvas
+# BlendCanvas
 
-This was a project that I started, but never quite got around to finishing. It was intended as an online coding platform for a new programming language that I was developing, but I couldn't find the time to finish creating the language, and so this site was unfortunately abandoned as well.
+BlendCanvas is an online coding platform for a new JavaScript-esque shader language which compiles to GLSL, the shader language used in WebGL.
 
 You can find the website live at https://canvas-vuetify.web.app/. 
 
